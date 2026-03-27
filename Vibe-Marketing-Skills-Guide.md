@@ -1,7 +1,7 @@
 # The Vibe Marketing Skills Pack
 ### Your Complete Guide to Setup, Usage, and What's Inside
 
-https://youtu.be/P2O3F-zu73s
+<img width="1104" height="619" alt="Screenshot 2026-03-27 at 11 40 33 PM" src="https://github.com/user-attachments/assets/bbb0c515-d8e7-4299-a40a-b130e1201378" />
 
 ---
 
@@ -136,7 +136,8 @@ Open your terminal, navigate into the `skills-v2/` folder, and run:
 
 ```bash
 bash _system/scripts/install.sh
-```
+```<img width="1104" height="619" alt="Screenshot 2026-03-27 at 11 40 33 PM" src="https://github.com/user-attachments/assets/f6085350-8eb2-4e86-bfd5-3842fe25ce08" />
+
 
 This copies the skills into `~/.claude/skills/vibe-marketing/` where Claude Code can find them.
 
