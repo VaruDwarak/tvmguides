@@ -1,7 +1,7 @@
 # The Vibe Marketing Skills Pack
 ### Your Complete Guide to Setup, Usage, and What's Inside
 
-<img width="1104" height="619" alt="Screenshot 2026-03-27 at 11 40 33 PM" src="https://github.com/user-attachments/assets/bbb0c515-d8e7-4299-a40a-b130e1201378" />
+[![Watch the video](https://github.com/user-attachments/assets/bbb0c515-d8e7-4299-a40a-b130e1201378)](https://youtu.be/P2O3F-zu73s)
 
 ---
 
