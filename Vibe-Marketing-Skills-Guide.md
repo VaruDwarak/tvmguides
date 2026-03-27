@@ -1,6 +1,8 @@
 # The Vibe Marketing Skills Pack
 ### Your Complete Guide to Setup, Usage, and What's Inside
 
+https://youtu.be/P2O3F-zu73s
+
 ---
 
 ## What Are The Vibe Marketing Skills?
